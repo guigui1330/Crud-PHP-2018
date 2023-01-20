@@ -1,0 +1,65 @@
+.ok{
+	background-color: #8c8c8c;
+	padding: 10px;
+	color: white;
+	font-family: verdana;
+}
+
+.linha{
+	
+	background-color: white;
+	padding: 10px;
+	color: black;
+}
+
+.linha2{
+	background-color: #f44336;
+	border: 1px;
+	padding: 8px;
+	color: white;
+	cursor: pointer;
+	width: 70px;
+	height: 40px;
+}
+
+.linha2:hover{
+  background-color: red;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+.campo{
+	border: 1px solid gray;
+	font-family: verdana;
+	padding: 5px;
+}
+
+.linha3{
+	color: white;
+	font-family: verdana;
+	font-size: 15%;
+}
+
+fieldset{
+	border: 0.2px solid black;
+	background-color: #f2f2f2;
+	padding: 5px;
+	
+}
+
+h1{
+	margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
